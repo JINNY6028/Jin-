@@ -36,6 +36,12 @@ this is an H2
 
       
 This is a normal paragraph:
-    ?????????
     this is a code block.
 end code block.
+
+
+* * *
+*** 
+******
+- - - 
+---------------
