@@ -101,7 +101,8 @@ _커클랜드 감자칩_
 ~~커클랜드 감자칩~~
 
 
-
+![Alt text](/path/to/img.jpg)
+![Alt text](/path/to/img.jpg "Optional title")
 
 
 
