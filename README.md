@@ -79,7 +79,7 @@ public class BootSpringBootApplication {
 
 
 
-```
+```java
 커크랜드 감자칩 오늘 배송
 ```
 
