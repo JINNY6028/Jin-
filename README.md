@@ -88,10 +88,10 @@ Link: [Google][googlelink]
 [googlelink]: https://google.com "Go google"
 
 
+[Google](https://google.com. "google link")
 
-
-
-
+* 외부링크: <http://example.com>
+* 이메일링크: <address@example.com>
 
 
 
